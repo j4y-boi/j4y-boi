@@ -10,3 +10,5 @@ Some stuff about me:
 
 My pinned has some active projects, the others may just be random forks.  
 **Currently focussing on studying tho :P**
+
+![Stats](https://github-readme-stats.vercel.app/api?username=j4y-boi&theme=transparent)
