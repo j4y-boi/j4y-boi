@@ -6,7 +6,7 @@ but guess who's too lazy to change all of his socials? <sub>couldn't be me :P</s
 Some stuff about me:
 - 🏫 I'm currently in High School
 - 🖥️ I mainly use Python, Lua and HTML.
-- 🌍 I'm located in Belgium, awesome place.
+- 🌍 I'm located in Belgium, awesome place. <sub>EXCEPT THE POSTAL SERVICES, THOSE I DONT REALLY LIKE</sub>
 
 My pinned has some active/cool projects, the others may just be random forks.  
 **Currently focussing on studying tho :P**
